@@ -13,18 +13,19 @@ a {
   font-weight: 700;
   letter-spacing: 0.03em;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.9em;
 }
 .blue-text {
   color: #2196f3;
 }
+
 /* header */
 .contact-link {
   color: #757575;
   font-weight: 500;
   letter-spacing: 0.02em;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
 }
 .contact-link:hover,
 .contact-link:focus {
@@ -35,12 +36,13 @@ a {
   font-weight: 500;
   letter-spacing: 0.02em;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
 }
 .nav-link:hover,
 .nav-link:focus {
   color: #2196f3;
 }
+
 /* hero-secion */
 .hero-section {
   color: #ffffff;
@@ -50,7 +52,7 @@ a {
 .hero-section-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 3.75em;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -61,7 +63,7 @@ a {
   border: none;
   letter-spacing: 0.06em;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87em;
 }
 
 /* main */
@@ -73,7 +75,7 @@ a {
   color: #212121;
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -81,13 +83,13 @@ a {
   color: #757575;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
 }
 .processes-section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 2.55em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -99,7 +101,7 @@ a {
   color: #212121;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -107,7 +109,7 @@ a {
   font-weight: 400;
   color: #757575;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -123,7 +125,7 @@ a {
   font-weight: 400;
   color: #ffffff;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
   font-style: normal;
 }
@@ -131,7 +133,7 @@ a {
   font-weight: 400;
   color: rgba(255, 255, 255, 0.6);
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
 }
 
@@ -141,7 +143,7 @@ a {
   font-style: 400;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.6em;
   letter-spacing: 0.03em;
   color: #212121;
   border: none;
@@ -158,7 +160,7 @@ a {
 .portfolio-list-title {
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.25em;
   letter-spacing: 0.06em;
   color: #212121;
 }
@@ -166,7 +168,7 @@ a {
 .portfolio-list-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87em;
   letter-spacing: 0.03em;
   color: #757575;
 }
